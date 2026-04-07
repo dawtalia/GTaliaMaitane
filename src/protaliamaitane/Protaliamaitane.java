@@ -18,6 +18,7 @@ public class Protaliamaitane {
         System.out.println("Estamos realizando cambios en el proyecto");
         System.out.println("Este es el 3 cambio en el proyecto");
         System.out.println("Este es el 4 cambio en el proyecto, haber como afecta a Maitane");
+        System.out.println("Este es el 6 cambio en el proyecto, para generar conflicto con el cambio anterior subido por Talia");
         System.out.println("Este es el 5 cambio en el proyecto con antencion de crear conlicto con Maitane");
     }
     
