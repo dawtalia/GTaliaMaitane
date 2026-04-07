@@ -9,5 +9,13 @@ package nuevopaquete;
  * @author maitx
  */
 public class Nuevaclase {
-    
+    public static boolean mayorDeEdad(int edad){
+        if(edad >= 18){
+            System.out.println("Eres mayor de edad");
+            return true;
+        } else{
+            System.out.println("Todavía no eres mayor de edad");
+            return false;
+        }
+    }
 }
