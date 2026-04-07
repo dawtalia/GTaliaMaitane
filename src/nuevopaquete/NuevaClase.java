@@ -9,5 +9,8 @@ package nuevopaquete;
  * @author maitx
  */
 public class NuevaClase {
-    
+    public static void saludar () {
+    //public static void main(String[] args) {
+    System.out.println("Estoy trabajando con la rama en otra clse llamada NuevaClase");
+    }
 }
